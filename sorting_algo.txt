@@ -38,5 +38,3 @@ Sure! Here are brief explanations of some major sorting algorithms:
 8. Radix Sort:
    - Sort the elements by their digits or bits, from the least significant to the most significant.
    - Perform this sorting process for each digit or bit position until the entire array is sorted.
-
-These are just a few examples of sorting algorithms. Each algorithm has its strengths, weaknesses, and performance characteristics, so the choice of which one to use depends on the specific requirements and constraints of your application.
